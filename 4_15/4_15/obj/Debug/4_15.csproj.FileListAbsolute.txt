@@ -1,0 +1,8 @@
+c:\users\xdark\documents\visual studio 2015\Projects\4_15\4_15\bin\Debug\4_15.exe.config
+c:\users\xdark\documents\visual studio 2015\Projects\4_15\4_15\bin\Debug\4_15.exe
+c:\users\xdark\documents\visual studio 2015\Projects\4_15\4_15\bin\Debug\4_15.pdb
+c:\users\xdark\documents\visual studio 2015\Projects\4_15\4_15\obj\Debug\_4_15.Form1.resources
+c:\users\xdark\documents\visual studio 2015\Projects\4_15\4_15\obj\Debug\_4_15.Properties.Resources.resources
+c:\users\xdark\documents\visual studio 2015\Projects\4_15\4_15\obj\Debug\4_15.csproj.GenerateResource.Cache
+c:\users\xdark\documents\visual studio 2015\Projects\4_15\4_15\obj\Debug\4_15.exe
+c:\users\xdark\documents\visual studio 2015\Projects\4_15\4_15\obj\Debug\4_15.pdb

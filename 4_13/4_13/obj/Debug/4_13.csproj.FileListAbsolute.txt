@@ -1,0 +1,9 @@
+c:\users\xdark\documents\visual studio 2015\Projects\4_13\4_13\bin\Debug\4_13.exe.config
+c:\users\xdark\documents\visual studio 2015\Projects\4_13\4_13\bin\Debug\4_13.exe
+c:\users\xdark\documents\visual studio 2015\Projects\4_13\4_13\bin\Debug\4_13.pdb
+c:\users\xdark\documents\visual studio 2015\Projects\4_13\4_13\obj\Debug\4_13.csprojResolveAssemblyReference.cache
+c:\users\xdark\documents\visual studio 2015\Projects\4_13\4_13\obj\Debug\_4_13.Form1.resources
+c:\users\xdark\documents\visual studio 2015\Projects\4_13\4_13\obj\Debug\_4_13.Properties.Resources.resources
+c:\users\xdark\documents\visual studio 2015\Projects\4_13\4_13\obj\Debug\4_13.csproj.GenerateResource.Cache
+c:\users\xdark\documents\visual studio 2015\Projects\4_13\4_13\obj\Debug\4_13.exe
+c:\users\xdark\documents\visual studio 2015\Projects\4_13\4_13\obj\Debug\4_13.pdb
